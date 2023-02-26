@@ -24,5 +24,12 @@ A very simple clone of wordle.
     - this character is not in the word.
 
 
+## screenshots
+
+![screenshot1](/screenshots/ex1.png)  
+![screenshot2](/screenshots/ex2.png)
+
+
+
 ### acknowledgment 
 I got the list of english words [from here](https://www-personal.umich.edu/~jlawler/wordlist.html)
